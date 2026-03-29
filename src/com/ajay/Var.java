@@ -17,6 +17,9 @@ public class Var {
 		
 		boolean pass = true;
 		System.out.println(pass);
+		 
+		boolean fail = false;
+		System.out.println(fail);
 
 	}
 
