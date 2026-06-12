@@ -20,6 +20,7 @@ public class Var {
 		 
 		boolean fail = false;
 		System.out.println(fail);
+//changes
 
 	}
 
